@@ -9,10 +9,12 @@ copyedit: false
 last_tested: '2020-06-12'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Get started with Google Colab
 - title: Load your model and image
+  completion:
+  - engaged
 - title: Use the model to predict an image
-  completion: internal
 - title: Classify your own image
+  completion:
+  - internal
 - title: What next?
