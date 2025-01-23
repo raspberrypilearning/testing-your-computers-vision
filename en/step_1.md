@@ -25,6 +25,8 @@ This project assumes you already know some Python. Specifically, it assumes you 
 + Lists
 + Functions, including how to create your own function that accepts arguments
 
+A good place to start would be with [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro)
+
 --- /collapse ---
 
 --- collapse ---
